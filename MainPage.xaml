@@ -9,7 +9,7 @@
             Padding="30,0"
             VerticalOptions="Center">
 
-            <Label TextType="Html"><![CDATA[<p>This is line 1.<br>This is line 2.<br>This is line 3.</p>]]></Label>
+            <Label TextType="Html"><![CDATA[<p>This is paragraph 1.<p>This is paragraph 2.]]></Label>
 
         </VerticalStackLayout>
     </ScrollView>
